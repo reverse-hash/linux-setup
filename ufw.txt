@@ -4,6 +4,6 @@ sudo ufw default deny incoming
 sudo ufw allow out dns
 sudo ufw allow out http
 sudo ufw allow out https
-sudo ufw allow out SSH
+sudo ufw allow out ssh
 
 sudo ufw allow out 3003
