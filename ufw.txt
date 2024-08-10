@@ -5,8 +5,6 @@ sudo ufw allow out dns
 sudo ufw allow out http
 sudo ufw allow out https
 sudo ufw allow out ssh
-sudo ufw allow out imap
-sudo ufw allow out smtp
 
 sudo ufw allow out 3003
 sudo ufw allow out 50002
